@@ -1,0 +1,10 @@
+body {
+	width: 125px;
+}
+
+.form, #sleepTime, #startButton {
+	width: 90%;
+	margin: .25em auto;
+	text-align: center;
+}
+
