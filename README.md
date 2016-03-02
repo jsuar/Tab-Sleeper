@@ -1,5 +1,5 @@
 # Tab-Sleeper
-This Chrome extension closes a tab after a set number of minutes.
+This Chrome extension closes a tab after a set number of minutes. Similar to the sleep function you would find on a TV or stereo.
 
 Some notes on usage:
  - Multiple tabs can be set to sleep
@@ -8,3 +8,4 @@ Some notes on usage:
 To Do:
  - Cancel existing timers on popup
  - Remaining time displayed on popup 
+ - make clean icons for each dimension
