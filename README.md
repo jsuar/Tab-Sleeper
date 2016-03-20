@@ -9,3 +9,6 @@ To Do:
  - Cancel existing timers on popup
  - Remaining time displayed on popup 
  - make clean icons for each dimension
+
+Other Ideas:
+ - Tab reminder: close tab for specified time and reopen tab after time expires
